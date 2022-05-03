@@ -1,6 +1,6 @@
 # DARD
 
-# Key Information Extraction with artificial intelligence of semi-structured form-like documents
+# Key Information Extraction with artificial intelligence from semi-structured Form-Like Documents
 
 ## Information extraction
 
@@ -8,9 +8,10 @@
 
 ## Content
 
-* **data/:** (jocs de dades)
-* **models/:** (models pre-entrenats)
-* **Jupyter Notebooks** (models pre-entrenats)
+* **data/:** (datasets)
+* **models/:** (pre-trained models)
+* **html/:** (python notebooks exported to HTML)
+* **Jupyter Notebooks** (python notebooks)
 
 ## License: 
 
